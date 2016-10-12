@@ -1,0 +1,29 @@
+{
+  "name": "relevance-app-example",
+  "version": "1.0.0",
+  "description": "关联插件示例及开发文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambition/relevance-app-example.git"
+  },
+  "author": "Teambition",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teambition/relevance-app-example/issues"
+  },
+  "homepage": "https://github.com/teambition/relevance-app-example#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.1.9",
+    "koa": "^1.2.4",
+    "koa-router": "^5.4.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}
